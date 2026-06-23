@@ -167,7 +167,7 @@ streamlit run app.py
 ## 🏠 Home Page
 
 ```markdown
-![image alt]([screenshots/Hpage dark.png](https://github.com/Durva4/UNI-BRIDGE-AI-Study-Abroad-Recommender/blob/48857bd736d724d204c2ac9e7da9ade96c0894e3/screenshots/Hpage%20dark.png))
+![Home Page](screenshots/Hpage%20dark.png)
 ```
 
 ## 📋 Student Profile Form
