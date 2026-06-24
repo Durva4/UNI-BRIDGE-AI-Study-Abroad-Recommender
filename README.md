@@ -160,31 +160,30 @@ streamlit run app.py
 
 ---
 
-# 📸 Application Screenshots
-# 📸 Application Screenshots
+## 📸 Application Screenshots
+## 🏠 Home Page (Dark Mode)
 
-## 🏠 Home Page
+![Home Page Dark](screenshots/Hpage%20dark.png)
 
-![Home Page](screenshots/home_page.png)
+## ☀️ Home Page (Light Mode)
 
----
+![Home Page Light](screenshots/Hpage%20light.png)
 
-## 🌙 Dark Mode
+## 🌍 Recommendation 1
 
-![Dark Mode](screenshots/dark_mode.png)
+![Recommendation 1](screenshots/Recommendation%201.png)
 
----
+## 🌍 Recommendation 2
 
-## 🌍 Recommendations
+![Recommendation 2](screenshots/Recommendation2.png)
 
-![Recommendations](screenshots/recommendations.png)
+## 🌍 Recommendation 3
 
----
+![Recommendation 3](screenshots/Recommendation3.png)
 
-## 🤖 AI Insights
+## 🌍 Recommendation 4
 
-![AI Insights](screenshots/ai_insights.png)
-
+![Recommendation 4](screenshots/Recommendation4.png)
 
 
 
