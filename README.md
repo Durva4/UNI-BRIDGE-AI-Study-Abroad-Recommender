@@ -161,46 +161,32 @@ streamlit run app.py
 ---
 
 # 📸 Application Screenshots
-
-> Store screenshots inside a folder named **screenshots/**
+# 📸 Application Screenshots
 
 ## 🏠 Home Page
 
-```markdown
-![Home Page](screenshots/Hpage%20dark.png)
-```
+![Home Page](screenshots/home_page.png)
 
-## 📋 Student Profile Form
-
-```markdown
-![Student Profile](screenshots/student_profile.png)
-```
-
-## 🌍 Country Recommendations
-
-```markdown
-![Recommendations](screenshots/recommendations.png)
-```
-
-## 🤖 AI Insights
-
-```markdown
-![AI Insights](screenshots/ai_insights.png)
-```
+---
 
 ## 🌙 Dark Mode
 
-```markdown
 ![Dark Mode](screenshots/dark_mode.png)
-```
-
-## 📊 Analytics Dashboard
-
-```markdown
-![Analytics](screenshots/analytics.png)
-```
 
 ---
+
+## 🌍 Recommendations
+
+![Recommendations](screenshots/recommendations.png)
+
+---
+
+## 🤖 AI Insights
+
+![AI Insights](screenshots/ai_insights.png)
+
+
+
 
 ## 🔮 Future Scope
 
@@ -212,18 +198,4 @@ streamlit run app.py
 - Mobile application development
 - User feedback-based learning
 
----
 
-## 👨‍💻 Contributors
-
-- Durva Palkar
-
----
-
-## 📜 License
-
-This project is developed for educational and research purposes.
-
----
-
-⭐ If you found this project useful, please consider giving it a star!
